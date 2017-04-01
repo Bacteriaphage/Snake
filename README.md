@@ -5,3 +5,5 @@ It can run on a single microprocessor machine.
 
 Here is the schema of the architecture of whole running environment:
 ![](https://github.com/Bacteriaphage/Snake/blob/master/Schema.png)
+
+Enjoy the code!
